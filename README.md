@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 📚 Atualmente cursando análise e desenvolvimento de sisitemas, na FAETERJ-RIO<br>- 💻 Me aprimorando no Front-end<br>- 😺 Adoro animais, principalmente gatos<br>- ⚡Sou uma grande  entusiasta do mundo geek, livros e arte</p>
+<p align="left">- 📚 Atualmente cursando análise e desenvolvimento de sisitemas, na FAETERJ-RIO<br>- 💻 Me aprimorando no Front-end<br></p>
 
 ###
 
