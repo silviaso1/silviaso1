@@ -64,7 +64,10 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=silviaso1&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviaso1&layout=compact&hide_border=true&title_color=58A6FF&text_color=58A6FF&bg_color=0d1117" />
+  
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=silviaso1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&hide_border=true&title_color=58A6FF&text_color=58A6FF&bg_color=0d1117" alt="languages graph"  />
+   
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silviaso1&radius=16&theme=react&area=true&order=5&hide_border=true&title_color=58A6FF&text_color=58A6FF&bg_color=0d1117" height="390" alt="activity-graph graph" /> 
 </div>
 
 ###
